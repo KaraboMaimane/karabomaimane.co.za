@@ -1,2 +1,2 @@
-# karaobmaimane.co.za
-Portfolio Website
+# karabomaimane.co.za
+This is my live portfolio page

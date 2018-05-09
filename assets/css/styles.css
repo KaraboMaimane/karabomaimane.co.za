@@ -1,0 +1,47 @@
+#blockquote{
+	background-color: white;
+	padding: 0px;
+	margin: 0px;
+	color: gray;
+}
+.list-text{
+	font-size: 1.1em;
+	font-weight: bold;
+}
+.navbar{
+	opacity: 0.95
+}
+
+#panel-image{
+	width: 350px;
+	height: 300px;
+}
+#portfolio{
+	background-image: url(../img/hero-background-technology.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+.panel{
+	color: white;
+	background-color: rgba(0,0,0, 0.5);
+	border-color: transparent;
+}
+
+.panel-heading{
+	border-color: transparent;
+}
+
+.panel-default>.panel-heading{
+	background-color: rgba(0,0,0, 0.6);
+	color: white;
+	border-color: transparent;
+}
+
+#myWork{
+	background-color: rgba(0,0,0,0.6);
+	color: white;
+	padding: 10px;
+	border-radius: 5px;
+}
